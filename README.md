@@ -1,2 +1,2 @@
 ﻿# API Relatórios Dinâmicos
-FastAPI + SQLAlchemy + Oracle (modo thin)
+FastAPI + SQLAlchemy + Oracle 
